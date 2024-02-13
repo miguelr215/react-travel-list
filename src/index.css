@@ -71,6 +71,7 @@ input {
 }
 
 .list {
+  min-height: 30vh;
   background-color: #5a3e2b;
   color: #ffebb3;
   padding: 4rem 0;
